@@ -334,7 +334,6 @@ MEDIA
     width: 85%;
 	
   }
-  .item-skills{font-size: 50%;}
 }
 @media (min-width: 768px) {
   #education .description{
