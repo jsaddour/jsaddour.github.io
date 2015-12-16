@@ -332,8 +332,9 @@ MEDIA
 @media (min-width: 500px) {
   #education .description{
     width: 85%;
+	
   }
-  #item-skills.font-size: 50%;
+  .item-skills{font-size: 50%;}
 }
 @media (min-width: 768px) {
   #education .description{
@@ -349,4 +350,5 @@ MEDIA
   #education .description{
     width: 90%;
   }
+   
 }
